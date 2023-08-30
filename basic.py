@@ -175,7 +175,7 @@ i am studying in first grade
 # print(type(name))
 # print(name)
 
-# case-sensitivity = lowecase and uppercase are different names 
+# case-sensitivity = lowercase and uppercase are different names 
 
 # name = "Megan"
 
@@ -234,3 +234,35 @@ i am studying in first grade
 # print(mystr[0])
 
 # print(mystr[3])
+
+# mystr = "I am having a big task"
+
+# print(mystr[5])
+# print(mystr[11])
+
+# we cannot change/update a string's value 
+# mystr[5] = 'p'
+
+# string slicing 
+
+# mystr = "I am having a big task"
+# big 
+# print(mystr[14:17])
+
+# havi 
+# print(mystr[5:9])
+
+# g a big 
+# print(mystr[10:17])
+
+# m hav 
+# print(mystr[3:8])
+
+# mystr = "I am having a big task"
+
+# avin 
+# print(mystr[6:10])
+
+# am 
+# print(mystr[1: 5])
+
