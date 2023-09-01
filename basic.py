@@ -266,3 +266,22 @@ i am studying in first grade
 # am 
 # print(mystr[1: 5])
 
+
+# print(mystr[2:5])
+
+# print(mystr[18:])
+
+# print(mystr[0:11])
+
+# print(mystr)
+
+# if you are not putting any start index, it will be starting from 0 index 
+# if you are not putting any end index, it will go upto the last element 
+# print(mystr[:])
+
+# string slicing using steps also 
+mystr = "I am having a big task"
+
+# print(mystr[0:5:2])
+# print(mystr[2:9:2])
+# print(mystr[3:6:2])
