@@ -280,8 +280,36 @@ i am studying in first grade
 # print(mystr[:])
 
 # string slicing using steps also 
-mystr = "I am having a big task"
+# mystr = "I am having a big task"
 
 # print(mystr[0:5:2])
 # print(mystr[2:9:2])
 # print(mystr[3:6:2])
+
+# print(mystr[2::2])
+# print(mystr[4::4])
+
+# print(mystr[::5])
+
+# mystr = "I am having a big task"
+
+# print(mystr[-7])
+# print(mystr[5])
+# print(mystr[-17])
+
+# print(mystr[-5:-2])
+
+# print(mystr[-8:-1:2])
+# print(mystr[-5::2])
+
+
+mystr = "I am having a big task"
+# print(mystr[-2:-7:-2])
+
+# print(mystr[-8:-4:-2])
+
+# print(mystr[-6:-1:2])
+
+# print(mystr[-3:-10:-3])
+
+print(mystr[-4:0:-4])
