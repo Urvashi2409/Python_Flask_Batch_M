@@ -303,7 +303,6 @@ i am studying in first grade
 # print(mystr[-5::2])
 
 
-mystr = "I am having a big task"
 # print(mystr[-2:-7:-2])
 
 # print(mystr[-8:-4:-2])
@@ -312,4 +311,76 @@ mystr = "I am having a big task"
 
 # print(mystr[-3:-10:-3])
 
-print(mystr[-4:0:-4])
+# print(mystr[-4:0:-4])
+
+# print(mystr[-9:1:-3])
+
+mystr = "I am having a big task"
+
+# print(mystr[-7:15:-1])
+
+# print(mystr[7:-14])
+
+# if start and end index are pointing to same character then 
+# nothing gets printed on the screen 
+# print(mystr[9:-13])
+
+# print(mystr[6:-17])
+
+
+# conditional statements 
+
+# if 3 == 4:
+#     print("Equal")
+# elif (3 > 4):
+#     print("greater")
+# else:
+#     print("less")
+
+# if 13 > 4:
+#     print("greater")
+# elif 13 < 4:
+#     print("less")
+# else:
+#     print("equal")
+
+# x = 4 
+# if x == 0:
+#     print("equal")
+# elif x >= 4:
+#     print("greater or equal")
+# elif x > 4:
+#     print("greater")
+# else:
+#     print("default")
+
+# x = 3 
+# if x == 0:
+#     print("equal")
+# elif x >= 4:
+#     print("greater or equal")
+# elif x > 4:
+#     print("greater")
+# else:
+#     print("default")
+
+# x = 0
+# if x == 0:
+#     print("equal")
+# elif x >= 4:
+#     print("greater or equal")
+# elif x > 4:
+#     print("greater")
+# else:
+#     print("default")
+
+x = 2 
+if x == 0:
+    print("equal")
+elif x <= 4:
+    print("less or equal")
+elif x < 4:
+    print("less")
+else:
+    print("default")
+
